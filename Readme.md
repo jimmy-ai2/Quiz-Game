@@ -34,3 +34,13 @@ The **Interactive Quiz Game** is an educational tool built to help beginners mas
     Simply open `index.html` in any modern web browser.
 3.  **Play:**
     Click "Start Quiz" and select the correct answers for each computing fundamental!
+
+## Illustrations
+### Start Page:
+<img width="1862" height="911" alt="Start page" src="https://github.com/user-attachments/assets/0686437a-62b9-40d0-b6ad-1970edcd432d" />
+
+### Quiz Page:
+<img width="1647" height="807" alt="Quiz page" src="https://github.com/user-attachments/assets/cf55f7fe-8a37-422e-8175-acb255979b60" />
+
+### Final Page:
+<img width="1607" height="803" alt="Final page" src="https://github.com/user-attachments/assets/114ceb85-d4b0-40f2-b9ae-9cf0140bd938" />
