@@ -34,6 +34,9 @@ The **Interactive Quiz Game** is an educational tool built to help beginners mas
     Simply open `index.html` in any modern web browser.
 3.  **Play:**
     Click "Start Quiz" and select the correct answers for each computing fundamental!
+4. **Changing the Questions**  
+   Feel free to change the list of questions by modifying the Javascript file
+
 
 ## Illustrations
 ### Start Page:
