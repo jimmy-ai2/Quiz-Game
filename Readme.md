@@ -4,6 +4,18 @@
 
 The **Interactive Quiz Game** is an educational tool built to help beginners master the basics of computer hardware and keyboard functions. It uses a "single-page" architecture where different screens (Start, Quiz, and Results) are toggled dynamically using JavaScript and CSS classes, providing a fast and seamless user experience without page reloads.
 
+[Live Demo](https://jimmy-ai2.github.io/Quiz-Game/)
+
+## Illustrations
+### Start Page:
+<img width="1862" height="911" alt="Start page" src="https://github.com/user-attachments/assets/0686437a-62b9-40d0-b6ad-1970edcd432d" />
+
+### Quiz Page:
+<img width="1647" height="807" alt="Quiz page" src="https://github.com/user-attachments/assets/cf55f7fe-8a37-422e-8175-acb255979b60" />
+
+### Final Page:
+<img width="1607" height="803" alt="Final page" src="https://github.com/user-attachments/assets/114ceb85-d4b0-40f2-b9ae-9cf0140bd938" />
+
 ## Features
 
 - Dynamic question and multiple choice rendering.
@@ -36,14 +48,3 @@ The **Interactive Quiz Game** is an educational tool built to help beginners mas
     Click "Start Quiz" and select the correct answers for each computing fundamental!
 4. **Changing the Questions**  
    Feel free to change the list of questions by modifying the Javascript file
-
-
-## Illustrations
-### Start Page:
-<img width="1862" height="911" alt="Start page" src="https://github.com/user-attachments/assets/0686437a-62b9-40d0-b6ad-1970edcd432d" />
-
-### Quiz Page:
-<img width="1647" height="807" alt="Quiz page" src="https://github.com/user-attachments/assets/cf55f7fe-8a37-422e-8175-acb255979b60" />
-
-### Final Page:
-<img width="1607" height="803" alt="Final page" src="https://github.com/user-attachments/assets/114ceb85-d4b0-40f2-b9ae-9cf0140bd938" />
